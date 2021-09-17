@@ -1,2 +1,2 @@
-# Housing prices prediction in Kaggle
-
+# Machine Learning Project
+Housing prices prediction in Kaggle
